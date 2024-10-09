@@ -1,0 +1,2 @@
+product-mapping-file:
+  max-capacity: ${PRODUCT_MAPPING_FILE_MAX_CAPACITY:100000}
